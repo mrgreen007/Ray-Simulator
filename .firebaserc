@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sabuj-website"
+  },
+  "targets": {
+    "sabuj-website": {
+      "hosting": {
+        "trg": [
+          "sabuj-ray-site"
+        ]
+      }
+    }
+  }
+}

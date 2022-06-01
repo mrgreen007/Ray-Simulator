@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "trg",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
